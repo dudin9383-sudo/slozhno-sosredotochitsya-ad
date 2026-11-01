@@ -306,7 +306,7 @@
 
 
 
-@media (min-width: 768px) or (min-width: 1024px){
+@media (min-width: 768px) {
   .header__theme-menu {
     display: flex;
     justify-content: flex-end;
@@ -367,6 +367,18 @@
  .header {
   padding: 10px;
 }
+
+.header__theme-menu {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .header__theme-menu-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 13px;
+  }
 
 .header__title {
   margin-left: 0px;
