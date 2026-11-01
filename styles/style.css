@@ -476,7 +476,7 @@
     left: 39vw;
   }
   .question__section-two {
-  margin-top: 35px;
+  margin-top: 30px;
   padding-block-start: 50px;
   padding-inline-end: 0 ;
   padding-block-end: 50px;
@@ -500,9 +500,9 @@
   grid-template-columns: 31% 69%;
 }
 .question__section__fhree {
-  margin-top: 40px;
+  margin-top: 55px;
 }
 .question__section__image{
-  margin-top: 30px;
+  margin-top: 10px;
 }
 }
