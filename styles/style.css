@@ -473,7 +473,7 @@
     left: 39vw;
   }
   .question__section-two {
-  margin: 0 10px;
+  margin-top: 20px;
   padding-block-start: 50px;
   padding-inline-end: 0 ;
   padding-block-end: 50px;
@@ -486,5 +486,14 @@
 .question__section-answer-two-container {
   display: flex;
   flex-direction: row;
+}
+.header__text {
+    max-inline-size: 491px;
+    max-block-size: 71px;
+  }
+
+  .question__section__one {
+  display: grid;
+  grid-template-columns: 32% 68%;
 }
 }
