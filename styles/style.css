@@ -472,4 +472,19 @@
     top: 20px;
     left: 39vw;
   }
+  .question__section-two {
+  margin: 0 10px;
+  padding-block-start: 50px;
+  padding-inline-end: 0 ;
+  padding-block-end: 50px;
+}
+
+.question__section-title-two {
+  min-inline-size: 355px;
+}
+
+.question__section-answer-two-container {
+  display: flex;
+  flex-direction: row;
+}
 }
